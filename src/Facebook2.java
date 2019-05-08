@@ -62,6 +62,7 @@ public class Facebook2
 			System.out.println("second change");
 			System.out.println("develop branch created");
 			System.out.println("first develop change");
+			System.out.println("final work done by lkc: merging done");
 			chrome_driver.close();
 			Thread.sleep(1000);
 		}
